@@ -1,0 +1,23 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "helloworld project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "FirstProject"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openfonts/montserrat_cyrillic": "^1.44.1",
+    "classnames": "^2.2.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^5.2.1",
+    "typeface-montserrat": "0.0.75",
+    "moment": "^2.27.0"
+  }
+}
